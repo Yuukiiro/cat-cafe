@@ -9,7 +9,7 @@
       ただ同じ空間にいるだけでも癒やされます<br>
       当店自慢のフワッフワのねこに触れ合うことで「幸せホルモン」が補給しませんか？</p>
     <div class="absolute right-0 bottom-0 transform translate-y-16">
-      <a href="#"><img src="/images/index/video.jpg" alt="" class="shadow-lg"></a>
+      <a href="#"><img src="./images/index/video.jpg" alt="" class="shadow-lg"></a>
     </div>
   </div>
 </section>
@@ -24,7 +24,7 @@
     <div class="w-full lg:w-1/3 p-3">
       <div class="bg-gray-100 rounded shadow">
         <div class="flex py-10 px-6">
-          <img class="w-20 h-20 object-cover rounded-full" src="/images/index/foliage-plant.jpg" alt="">
+          <img class="w-20 h-20 object-cover rounded-full" src="./images/index/foliage-plant.jpg" alt="">
           <div class="ml-4 w-56">
             <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">清潔な環境</h3>
             <p class="text-left text-gray-500 text-sm">2022年2月にリニューアル!! <br>24時間常に換気<br> 最新型空気清浄機を設置</p>
@@ -36,7 +36,7 @@
     <div class="w-full lg:w-1/3 p-3">
       <div class="bg-gray-100 rounded shadow">
         <div class="flex py-10 px-6">
-          <img class="w-20 h-20 object-cover rounded-full" src="/images/index/sanitizer.jpg" alt="">
+          <img class="w-20 h-20 object-cover rounded-full" src="./images/index/sanitizer.jpg" alt="">
           <div class="ml-4 w-56">
             <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">衛生管理</h3>
             <p class="text-left text-gray-500 text-sm">店員・ゲストの検温<br> マスクの常時着用<br> 1時間毎に全ての設備を消毒</p>
@@ -48,7 +48,7 @@
     <div class="w-full lg:w-1/3 p-3">
       <div class="bg-gray-100 rounded shadow">
         <div class="flex py-10 px-6">
-          <img class="w-20 h-20 object-cover rounded-full" src="/images/index/health-check.jpg" alt="">
+          <img class="w-20 h-20 object-cover rounded-full" src="./images/index/health-check.jpg" alt="">
           <div class="ml-4 w-56">
             <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">ねこの体調管理</h3>
             <p class="text-left text-gray-500 text-sm">毎日の検温<br> ワクチン接種済み<br> 定期的な検診</p>
@@ -97,7 +97,7 @@
         <div class="border rounded-lg overflow-hidden shadow">
           <div class="relative h-52">
             <span class="absolute text-xs text-gray-400 px-2 border border-white bg-gray-100 uppercase py-2 px-10 left-0 bottom-0">カテゴリ</span>
-            <a href="#"><img class="w-full h-full object-cover" src="/images/placeholders/blogs/lunch.jpeg" alt=""></a>
+            <a href="#"><img class="w-full h-full object-cover" src="./images/placeholders/blogs/lunch.jpeg" alt=""></a>
             <time class="text-xs text-gray-500 text-right pr-2 pt-2">2022.3.12</time>
           </div>
           <div class="pt-2 pb-4 px-4">
@@ -120,7 +120,7 @@
         <div class="border rounded-lg overflow-hidden shadow">
           <div class="relative h-52">
             <span class="absolute text-xs text-gray-400 px-2 border border-white bg-gray-100 uppercase py-2 px-10 left-0 bottom-0">カテゴリ</span>
-            <a href="#"><img class="w-full h-full object-cover" src="/images/placeholders/blogs/working.jpeg" alt=""></a>
+            <a href="#"><img class="w-full h-full object-cover" src="./images/placeholders/blogs/working.jpeg" alt=""></a>
             <time class="text-xs text-gray-500 text-right pr-2 pt-2">2022.3.11</time>
           </div>
           <div class="pt-2 pb-4 px-4">
@@ -143,7 +143,7 @@
         <div class="border rounded-lg overflow-hidden shadow">
           <div class="relative h-52">
             <span class="absolute text-xs text-gray-400 px-2 border border-white bg-gray-100 uppercase py-2 px-10 left-0 bottom-0">カテゴリ</span>
-            <a href="#"><img class="w-full h-full object-cover" src="/images/placeholders/blogs/toilet.jpeg" alt=""></a>
+            <a href="#"><img class="w-full h-full object-cover" src="./images/placeholders/blogs/toilet.jpeg" alt=""></a>
             <time class="text-xs text-gray-500 text-right pr-2 pt-2">2022.3.10</time>
           </div>
           <div class="pt-2 pb-4 px-4">
@@ -176,7 +176,7 @@
     <h2 class="mt-2 font-bold font-heading text-center text-3xl h-24">ご来店をお待ちしております！</h2>
     <div class="md:flex justify-center">
       <div class="">
-        <img class="rounded mx-auto" src="/images/map.jpg" alt="">
+        <img class="rounded mx-auto" src="./images/map.jpg" alt="">
       </div>
       <div class="text-left lg:ml-8 px-8">
         <p class="font-bold text-3xl pb-5">ねこカフェららべる</p>
