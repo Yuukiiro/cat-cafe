@@ -199,7 +199,7 @@
       <p><a href="#" class="text-blue-600 hover:underline">よくあるご質問</a>もご用意しています</p>
     </div>
     <div class="mx-auto">
-      <a href="/contact" class="inline-block text-xs text-white font-semibold leading-none rounded py-4 text-blue-700 border-solid bg-white border-blue-700 border-2 px-16 hover:text-white hover:bg-blue-700">お問い合わせ</a>
+      <a href="./contact" class="inline-block text-xs text-white font-semibold leading-none rounded py-4 text-blue-700 border-solid bg-white border-blue-700 border-2 px-16 hover:text-white hover:bg-blue-700">お問い合わせ</a>
     </div>
   </div>
 </section>

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-    <link rel="stylesheet" href="./css/tailwind/tailwind.min.css">
+    <link rel="stylesheet" href="{{ asset('css/tailwind/tailwind.min.css') }}">
 
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
     <script src="./js/main.js"></script>
@@ -20,13 +20,13 @@
             <ul class="hidden lg:flex ml-12 mr-auto space-x-12">
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">設備</a></li>
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">ねこちゃんたち</a></li>
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="/blogs">ブログ</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="./blogs">ブログ</a></li>
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">メニュー</a></li>
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">よくあるご質問</a></li>
             </ul>
             <div>
-                <a class="mr-2 inline-block px-4 py-3 text-xs text-blue-500 hover:text-blue-600 leading-none border border-blue-200 hover:border-blue-300 rounded" href="/contact">お問い合わせ</a>
-                <a class="inline-block px-4 py-3 text-xs font-semibold leading-none bg-blue-500 hover:bg-blue-600 text-white rounded" href="/#access">アクセス</a>
+                <a class="mr-2 inline-block px-4 py-3 text-xs text-blue-500 hover:text-blue-600 leading-none border border-blue-200 hover:border-blue-300 rounded" href="./contact">お問い合わせ</a>
+                <a class="inline-block px-4 py-3 text-xs font-semibold leading-none bg-blue-500 hover:bg-blue-600 text-white rounded" href="./#access">アクセス</a>
             </div>
         </nav>
     </div>
@@ -52,10 +52,10 @@
             <li class="ml-6"><a href="/" class="hover:underline">ホーム</a></li>
             <li class="ml-6"><a href="#" class="hover:underline">設備</a></li>
             <li class="ml-6"><a href="#" class="hover:underline">ねこちゃんたち</a></li>
-            <li class="ml-6"><a href="/blogs" class="hover:underline">ブログ</a></li>
-            <li class="ml-6"><a href="/#access" class="hover:underline">アクセス</a></li>
+            <li class="ml-6"><a href="./blogs" class="hover:underline">ブログ</a></li>
+            <li class="ml-6"><a href="./#access" class="hover:underline">アクセス</a></li>
             <li class="ml-6"><a href="#" class="hover:underline">よくあるご質問</a></li>
-            <li class="ml-6"><a href="/contact" class="hover:underline">お問い合わせ</a></li>
+            <li class="ml-6"><a href="./contact" class="hover:underline">お問い合わせ</a></li>
             <li class="ml-6"><a href="#" class="hover:underline">プライバシーポリシー</a></li>
         </ul>
     </div>
